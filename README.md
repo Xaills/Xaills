@@ -1,14 +1,12 @@
+[![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b2e,100:414868&height=220&section=header&text=Leonid&fontSize=72&fontColor=c0caf5&animation=fadeIn&fontAlignY=36&desc=Solo%20Dev%20%E2%80%94%20VPN%20%7C%20Bots%20%7C%20Linux&descAlignY=55&descSize=20&descColor=a9b1d6)](https://github.com/Xaills)
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6E40C9&center=true&vCenter=true&width=620&lines=Hey%2C+I'm+Leonid+%F0%9F%91%8B;Solo+Dev+%7C+VPN+Builder+%7C+Bot+Maker;18+y.o.+%E2%80%94+building+real+things+that+run" alt="Typing SVG" />
+[![ZionTunnelBot](https://img.shields.io/badge/@ZionTunnelBot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ZionTunnelBot)
+[![Manager Bot](https://img.shields.io/badge/@Manager45678__bot-7aa2f7?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Manager45678_bot)
+[![Website](https://img.shields.io/badge/ziontunnel.ftp.sh-1a1b2e?style=for-the-badge&logo=googlechrome&logoColor=c0caf5)](https://ziontunnel.ftp.sh/)
 
-<br/>
-
-[![Telegram Bot](https://img.shields.io/badge/@ZionTunnelBot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ZionTunnelBot)
-[![Manager Bot](https://img.shields.io/badge/@Manager45678__bot-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Manager45678_bot)
-[![Website](https://img.shields.io/badge/ziontunnel.ftp.sh-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ziontunnel.ftp.sh/)
-
-![Profile views](https://visitor-badge.laobi.icu/badge?page_id=Xaills.Xaills&left_color=7c3aed&right_color=2563eb)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Xaills.Xaills&left_color=414868&right_color=7aa2f7)
 
 </div>
 
@@ -43,26 +41,24 @@ I build things **end-to-end** — from idea and backend logic to VPS deployment,
 
 - 🇳🇱 Netherlands + 🇪🇸 Spain VPS nodes
 - VLESS / Reality protocol via **Xray-core**
-- Subscription panel: **Marzban** → **RemnaWave** (migrating)
+- Panel: **Marzban** → **RemnaWave** (migrating)
 - Telegram bot for user onboarding & payments
 - nginx reverse proxy + Docker deployment
 - Server monitoring, logs, automatic backups
-- Multi-node routing
 
 </td>
 <td width="50%" align="center">
 
-[![Bot](https://img.shields.io/badge/Telegram_Bot-@ZionTunnelBot-2CA5E0?style=flat-square&logo=telegram)](https://t.me/ZionTunnelBot)
-[![Manager Bot](https://img.shields.io/badge/@Manager45678__bot-0088CC?style=flat-square&logo=telegram)](https://t.me/Manager45678_bot)
-[![Site](https://img.shields.io/badge/Website-ziontunnel.ftp.sh-111827?style=flat-square&logo=googlechrome&logoColor=white)](https://ziontunnel.ftp.sh/)
+[![Bot](https://img.shields.io/badge/Telegram-@ZionTunnelBot-2CA5E0?style=flat-square&logo=telegram)](https://t.me/ZionTunnelBot)
+[![Site](https://img.shields.io/badge/Web-ziontunnel.ftp.sh-1a1b2e?style=flat-square&logo=googlechrome&logoColor=white)](https://ziontunnel.ftp.sh/)
 
 ```
-🇳🇱 NL node ──→ Xray Reality
-🇪🇸 ES node ──→ Xray VLESS/WS
-        ↓
-  Marzban panel (→ RemnaWave)
-        ↓
- Telegram subscription bot
+🇳🇱 NL ──→ Xray Reality
+🇪🇸 ES ──→ Xray VLESS/WS
+       ↓
+  Marzban → RemnaWave
+       ↓
+  Telegram Bot
 ```
 
 </td>
@@ -73,15 +69,13 @@ I build things **end-to-end** — from idea and backend logic to VPS deployment,
 
 ## 🤖 Telegram Bots
 
-I build bots as **production services**, not weekend experiments.
-
 | Bot | Description | Stack |
 |-----|-------------|-------|
-| 🔒 **ZionTunnel Bot** | VPN subscription management, user onboarding, payments | Python, aiogram 3.x |
-| 💰 **Accounting Bot** | Personal finance tracker — income, debts, bills, QR receipts, currency alerts | Node.js, MongoDB, node-cron |
-| 🎁 **Gift Flipper Bot** | Collectible gift arbitrage with dry-run executor, trade logging | Python, aiogram 3.x, SQLite |
+| 🔒 **ZionTunnelBot** | VPN subscription management, user onboarding, payments | Python · aiogram 3.x |
+| 💰 **Accounting Bot** | Finance tracker — income, debts, bills, QR receipts, currency alerts | Node.js · MongoDB · node-cron |
+| 🎁 **Gift Flipper Bot** | Collectible gift arbitrage, dry-run executor, trade logging | Python · aiogram 3.x · SQLite |
 
-All deployed as **systemd services** on VPS with monitoring and auto-restart.
+*All deployed as **systemd services** on VPS with monitoring and auto-restart.*
 
 ---
 
@@ -89,73 +83,53 @@ All deployed as **systemd services** on VPS with monitoring and auto-restart.
 
 <div align="center">
 
-### Languages
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,python,java,bash&theme=dark)](https://skillicons.dev)
-
-### Infrastructure & Databases
-[![My Skills](https://skillicons.dev/icons?i=linux,docker,nginx,mongodb,sqlite&theme=dark)](https://skillicons.dev)
-
-### Tools
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark)](https://skillicons.dev)
-
-</div>
+[![Skills](https://skillicons.dev/icons?i=js,nodejs,python,java,bash,linux,docker,nginx,mongodb,sqlite,git,github,vscode&theme=dark&perline=7)](https://skillicons.dev)
 
 <br/>
 
-<div align="center">
-
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![aiogram](https://img.shields.io/badge/aiogram_3.x-2CA5E0?style=flat-square&logo=telegram&logoColor=white)
-![Xray](https://img.shields.io/badge/Xray--core-000000?style=flat-square&logoColor=white)
-![systemd](https://img.shields.io/badge/systemd-2B6CB0?style=flat-square&logo=linux&logoColor=white)
+![systemd](https://img.shields.io/badge/systemd-1a1b2e?style=flat-square&logo=linux&logoColor=white)
 
 </div>
 
 ---
 
-## 🔐 Security & Privacy
+## 🏆 Trophies
 
-I'm interested in practical cybersecurity where it connects to real infrastructure.
+<div align="center">
 
-```
-✦ VPN protocol research (VLESS, Reality, WebSocket, gRPC)
-✦ DPI bypass techniques
-✦ Self-hosted privacy tools
-✦ Server hardening & secrets management
-✦ Logs, incident diagnostics, infrastructure reliability
-✦ Tools: Flipper Zero, network analysis
-```
+[![trophy](https://github-profile-trophy.vercel.app/?username=Xaills&theme=tokyonight&no-frame=true&column=6&margin-w=6&margin-h=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
-## 🎮 Minecraft Modding
+## 📊 GitHub Stats
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Xaills&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&bg_color=1a1b2e" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xaills&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=1a1b2e" />
+</div>
 
-**Fabric 1.16.5 — Client mods**
-- Utility client features for singleplayer
-- KillAura, fly module, orbit renderers
-- JAR-level bytecode patching
-- WorldRenderEvents, 3D overlays
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Xaills&theme=tokyonight&hide_border=true&background=1a1b2e&dates=a9b1d6&currStreakLabel=7aa2f7" />
+</div>
 
-</td>
-<td width="50%">
+---
 
-**Forge 1.16.5 — Parasite Mod**
-- Custom biome: `parasite` modid
-- Biome generation & world integration
-- Block/entity design from scratch
+## 📈 Activity Graph
 
-</td>
-</tr>
-</table>
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Xaills&theme=tokyo-night&hide_border=true&area=true&area_color=7aa2f7)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
 
 ---
 
@@ -171,36 +145,22 @@ I'm interested in practical cybersecurity where it connects to real infrastructu
     └── Status: active development
 
 🏎️  DIY Electric Buggy
-    ├── Frame: 1150×700mm, A-arm front suspension, rigid rear axle
-    ├── Hydraulic disc brakes, ~50 km/h target
+    ├── Frame: 1150×700mm · A-arm front suspension · rigid rear axle
+    ├── Hydraulic disc brakes · ~50 km/h target
     ├── Budget: ~120k RUB
     └── Status: designing 3-view frame drawing → welder
 ```
 
 ---
 
-## 🎭 Creative Side
-
-Outside of code — **acting and theatre**. I've explored preparation for Russian theatre universities (GITIS, Shchepkin, Shchukin, MKhAT, VGIK). This bleeds into how I build products: I care about atmosphere, presentation and how things *feel* to real people — not just whether they work.
-
----
-
-## 📊 GitHub Stats
+## 🐍 Contributions
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Xaills&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xaills&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-</div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Xaills&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+![snake](https://raw.githubusercontent.com/Xaills/Xaills/output/github-contribution-grid-snake-dark.svg)
+
 </div>
 
 ---
 
-<div align="center">
-
-*Solo developer. Building real things for real people.*
-*If it runs on Linux and helps someone — it's worth building.*
-
-</div>
+[![footer](https://capsule-render.vercel.app/api?type=waving&color=0:414868,100:1a1b2e&height=120&section=footer)](https://github.com/Xaills)
