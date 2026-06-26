@@ -5,7 +5,7 @@
 <br/>
 
 [![Telegram Bot](https://img.shields.io/badge/@ZionTunnelBot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ZionTunnelBot)
-[![Telegram Channel](https://img.shields.io/badge/ZionTunnel_VPN-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ZionTunnelVPN)
+[![Manager Bot](https://img.shields.io/badge/@Manager45678__bot-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Manager45678_bot)
 [![Website](https://img.shields.io/badge/ziontunnel.ftp.sh-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ziontunnel.ftp.sh/)
 
 ![Profile views](https://visitor-badge.laobi.icu/badge?page_id=Xaills.Xaills&left_color=7c3aed&right_color=2563eb)
@@ -53,7 +53,7 @@ I build things **end-to-end** — from idea and backend logic to VPS deployment,
 <td width="50%" align="center">
 
 [![Bot](https://img.shields.io/badge/Telegram_Bot-@ZionTunnelBot-2CA5E0?style=flat-square&logo=telegram)](https://t.me/ZionTunnelBot)
-[![Channel](https://img.shields.io/badge/Channel-ZionTunnelVPN-0088CC?style=flat-square&logo=telegram)](https://t.me/ZionTunnelVPN)
+[![Manager Bot](https://img.shields.io/badge/@Manager45678__bot-0088CC?style=flat-square&logo=telegram)](https://t.me/Manager45678_bot)
 [![Site](https://img.shields.io/badge/Website-ziontunnel.ftp.sh-111827?style=flat-square&logo=googlechrome&logoColor=white)](https://ziontunnel.ftp.sh/)
 
 ```
